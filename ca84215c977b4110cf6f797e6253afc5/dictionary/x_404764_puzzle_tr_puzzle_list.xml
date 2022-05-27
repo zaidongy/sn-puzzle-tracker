@@ -2,10 +2,10 @@
     <element label="Puzzle List" max_length="40" name="x_404764_puzzle_tr_puzzle_list" type="collection">
         <element choice="3" label="Difficulty" max_length="40" name="difficulty" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Easy" sequence="1" value="1"/>
-                <element inactive_on_update="false" label="Medium" sequence="2" value="2"/>
-                <element inactive_on_update="false" label="Hard" sequence="3" value="3"/>
-                <element inactive_on_update="false" label="Insane" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Insane" sequence="1" value="4"/>
+                <element inactive_on_update="false" label="Hard" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Medium" sequence="3" value="2"/>
+                <element inactive_on_update="false" label="Easy" sequence="4" value="1"/>
             </choice>
         </element>
         <element label="Name" max_length="40" name="name" type="string"/>

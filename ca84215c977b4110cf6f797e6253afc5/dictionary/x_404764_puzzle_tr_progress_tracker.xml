@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Progress Tracker" max_length="40" name="x_404764_puzzle_tr_progress_tracker" type="collection">
         <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
-        <element label="Puzzle" max_length="40" name="puzzle" reference="x_404764_puzzle_tr_puzzle_list" type="string"/>
+        <element label="Puzzle" max_length="40" name="puzzle" reference="x_404764_puzzle_tr_puzzle_list" type="reference"/>
         <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Not Started" sequence="3" value="1"/>
+            </choice>
         </element>
-        <element label="User" max_length="40" name="user" reference="sys_user" type="string"/>
+        <element label="User" max_length="40" name="user" reference="sys_user" type="reference"/>
     </element>
 </database>
