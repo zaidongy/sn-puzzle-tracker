@@ -5,9 +5,9 @@
         <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="Not Started" sequence="1" value="1"/>
                 <element inactive_on_update="false" label="In Progress" sequence="2" value="2"/>
-                <element inactive_on_update="false" label="Not Started" sequence="3" value="1"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="3"/>
             </choice>
         </element>
         <element label="User" max_length="40" name="user" reference="sys_user" type="reference"/>

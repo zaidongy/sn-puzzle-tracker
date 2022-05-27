@@ -2,18 +2,18 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_404764_puzzle_tr_progress_tracker" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>user</element>
+            <element>status</element>
             <list_id display_value="x_404764_puzzle_tr_progress_tracker" element="NULL" name="x_404764_puzzle_tr_progress_tracker" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">342035dc97bf4110cf6f797e6253af68</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:26:56</sys_created_on>
-            <sys_id>bc2035dc97bf4110cf6f797e6253af68</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2022-05-27 08:59:18</sys_created_on>
+            <sys_id>cb87f95897ff4110cf6f797e6253af0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:26:56</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -23,27 +23,27 @@
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:26:56</sys_created_on>
-            <sys_id>302035dc97bf4110cf6f797e6253af69</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2022-05-27 08:59:18</sys_created_on>
+            <sys_id>8387f95897ff4110cf6f797e6253af0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:26:56</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>status</element>
+            <element>user</element>
             <list_id display_value="x_404764_puzzle_tr_progress_tracker" element="NULL" name="x_404764_puzzle_tr_progress_tracker" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">342035dc97bf4110cf6f797e6253af68</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:26:56</sys_created_on>
-            <sys_id>b02035dc97bf4110cf6f797e6253af69</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2022-05-27 08:59:18</sys_created_on>
+            <sys_id>0787f95897ff4110cf6f797e6253af0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:26:56</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -53,12 +53,12 @@
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:26:56</sys_created_on>
-            <sys_id>342035dc97bf4110cf6f797e6253af69</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2022-05-27 08:59:18</sys_created_on>
+            <sys_id>8787f95897ff4110cf6f797e6253af0d</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:26:56</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -71,8 +71,8 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:26:56</sys_created_on>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2022-05-27 08:59:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>342035dc97bf4110cf6f797e6253af68</sys_id>
@@ -82,8 +82,8 @@
             <sys_policy/>
             <sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope>
             <sys_update_name>sys_ui_list_x_404764_puzzle_tr_progress_tracker_null</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:26:56</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:18</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

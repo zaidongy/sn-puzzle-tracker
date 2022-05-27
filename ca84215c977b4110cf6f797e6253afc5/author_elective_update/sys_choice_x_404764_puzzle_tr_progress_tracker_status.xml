@@ -21,20 +21,20 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Completed</label>
+            <label>Not Started</label>
             <language>en</language>
             <name>x_404764_puzzle_tr_progress_tracker</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:25:11</sys_created_on>
+            <sys_created_on>2022-05-27 08:25:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a8bf2d9c97bf4110cf6f797e6253af5f</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:25:36</sys_updated_on>
-            <value>3</value>
+            <sys_id>d3bfe99c97bf4110cf6f797e6253afcc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:43</sys_updated_on>
+            <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -61,20 +61,20 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Not Started</label>
+            <label>Completed</label>
             <language>en</language>
             <name>x_404764_puzzle_tr_progress_tracker</name>
             <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-27 08:25:21</sys_created_on>
+            <sys_created_on>2022-05-27 08:25:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d3bfe99c97bf4110cf6f797e6253afcc</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-27 08:25:33</sys_updated_on>
-            <value>1</value>
+            <sys_id>a8bf2d9c97bf4110cf6f797e6253af5f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:59:45</sys_updated_on>
+            <value>3</value>
         </sys_choice>
     </sys_choice>
 </record_update>
