@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_a2fa691897bf4110cf6f797e6253af0e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-27 08:04:23</sys_updated_on>
-        <sys_user_role display_value="x_404764_puzzle_tr.puzzle_list_user" name="x_404764_puzzle_tr.puzzle_list_user">12fa251897bf4110cf6f797e6253af09</sys_user_role>
+        <sys_user_role display_value="x_404764_puzzle_tr.puzzle_tracker_user" name="x_404764_puzzle_tr.puzzle_tracker_user">12fa251897bf4110cf6f797e6253af09</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
