@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Puzzle Lists</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_404764_puzzle_tr_puzzle_list</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_404764_puzzle_tr.puzzle_list_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 08:04:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1afa291897bf4110cf6f797e6253aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puzzle Lists</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope>
+        <sys_update_name>sys_app_module_1afa291897bf4110cf6f797e6253aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 08:04:23</sys_updated_on>
+        <timeline_page/>
+        <title>Puzzle Lists</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</application>
+        <file_path/>
+        <instance_id>e5186587db371fc00e785d00cf961901</instance_id>
+        <instance_name>dev70149</instance_name>
+        <name>sys_app_module_1afa291897bf4110cf6f797e6253aff4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Puzzle Lists</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_404764_puzzle_tr_puzzle_list</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_404764_puzzle_tr.puzzle_list_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-27 08:04:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1afa291897bf4110cf6f797e6253aff4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Puzzle Lists</sys_name><sys_overrides/><sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package><sys_policy/><sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope><sys_update_name>sys_app_module_1afa291897bf4110cf6f797e6253aff4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-27 08:04:23</sys_updated_on><timeline_page/><title>Puzzle Lists</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1319514989</payload_hash>
+        <record_name>Puzzle Lists</record_name>
+        <reverted_from/>
+        <source>ce84215c977b4110cf6f797e6253afc7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 08:04:35</sys_created_on>
+        <sys_id>950be91897bf4110cf6f797e6253af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181048bbbfb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 08:04:35</sys_updated_on>
+        <type>Module</type>
+        <update_guid>26fa29181cbf411014231c24d92264f7</update_guid>
+        <update_guid_history>26fa29181cbf411014231c24d92264f7:-413770799,26fa29181cbf411014231c24d92264f7:-413770799</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Puzzle Lists">c21bad1897bf4110cf6f797e6253af6c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 08:04:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6d7e7ea6054d45f4a8ed10096ab37844</sys_id>
+        <sys_metadata>1afa291897bf4110cf6f797e6253aff4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puzzle Lists</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope>
+        <sys_scope_delete display_value="">9f2093d7fad0471cb1288d4007ae0b24</sys_scope_delete>
+        <sys_update_name>sys_app_module_1afa291897bf4110cf6f797e6253aff4</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1afa291897bf4110cf6f797e6253aff4">950be91897bf4110cf6f797e6253af08</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 08:04:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Puzzle List" max_length="40" name="x_404764_puzzle_tr_puzzle_list" type="collection">
+        <element choice="3" label="Difficulty" max_length="40" name="difficulty" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Easy" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Hard" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Insane" sequence="4" value="4"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Logic" sequence="1" value="logic"/>
+                <element inactive_on_update="false" label="Math" sequence="2" value="math"/>
+                <element inactive_on_update="false" label="Mechanical" sequence="3" value="mechanical"/>
+                <element inactive_on_update="false" label="Word" sequence="4" value="word"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="difficulty" table="x_404764_puzzle_tr_puzzle_list" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>difficulty</element>
+            <name>x_404764_puzzle_tr_puzzle_list</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 08:05:37</sys_created_on>
+            <sys_id>a44bad1897bf4110cf6f797e6253af22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>difficulty</sys_name>
+            <sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope>
+            <sys_update_name>sys_choice_x_404764_puzzle_tr_puzzle_list_difficulty</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:05:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>difficulty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Easy</label>
+            <language>en</language>
+            <name>x_404764_puzzle_tr_puzzle_list</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 08:05:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b2bad1897bf4110cf6f797e6253af2c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:07:42</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>difficulty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medium</label>
+            <language>en</language>
+            <name>x_404764_puzzle_tr_puzzle_list</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 08:05:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>244bad1897bf4110cf6f797e6253afa4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:07:45</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>difficulty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hard</label>
+            <language>en</language>
+            <name>x_404764_puzzle_tr_puzzle_list</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 08:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>824bad1897bf4110cf6f797e6253afa5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:07:46</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>difficulty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insane</label>
+            <language>en</language>
+            <name>x_404764_puzzle_tr_puzzle_list</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 08:05:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b4ba15897bf4110cf6f797e6253af86</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 08:07:48</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
