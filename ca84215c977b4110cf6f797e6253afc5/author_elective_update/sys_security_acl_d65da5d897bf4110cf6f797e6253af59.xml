@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_404764_puzzle_tr_progress_tracker</description>
+        <name>x_404764_puzzle_tr_progress_tracker</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 08:14:44</sys_created_on>
+        <sys_id>d65da5d897bf4110cf6f797e6253af59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_404764_puzzle_tr_progress_tracker</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope>
+        <sys_update_name>sys_security_acl_d65da5d897bf4110cf6f797e6253af59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 08:14:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</application>
+        <file_path/>
+        <instance_id>e5186587db371fc00e785d00cf961901</instance_id>
+        <instance_name>dev70149</instance_name>
+        <name>sys_security_acl_d65da5d897bf4110cf6f797e6253af59</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_404764_puzzle_tr_progress_tracker</description><name>x_404764_puzzle_tr_progress_tracker</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-27 08:14:44</sys_created_on><sys_id>d65da5d897bf4110cf6f797e6253af59</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_404764_puzzle_tr_progress_tracker</sys_name><sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package><sys_policy/><sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope><sys_update_name>sys_security_acl_d65da5d897bf4110cf6f797e6253af59</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-27 08:14:44</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1655408697</payload_hash>
+        <record_name>x_404764_puzzle_tr_progress_tracker</record_name>
+        <reverted_from/>
+        <source>03bc219897bf4110cf6f797e6253af45</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 08:14:44</sys_created_on>
+        <sys_id>d65da5d897bf4110cf6f797e6253af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181049508c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 08:14:44</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>125da5d85fbf41101a62bd8f0e43a45b</update_guid>
+        <update_guid_history>125da5d85fbf41101a62bd8f0e43a45b:1655408697</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 08:17:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>09badf27879a4e9494408c0f422b2a09</sys_id>
+        <sys_metadata>d65da5d897bf4110cf6f797e6253af59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_404764_puzzle_tr_progress_tracker</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_404764_puzzle_tr">ca84215c977b4110cf6f797e6253afc5</sys_package>
+        <sys_parent display_value="x_404764_puzzle_tr_progress_tracker">965da5d897bf4110cf6f797e6253af5e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">ca84215c977b4110cf6f797e6253afc5</sys_scope>
+        <sys_scope_delete display_value="">9f2093d7fad0471cb1288d4007ae0b24</sys_scope_delete>
+        <sys_update_name>sys_security_acl_d65da5d897bf4110cf6f797e6253af59</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_d65da5d897bf4110cf6f797e6253af59">d65da5d897bf4110cf6f797e6253af5b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 08:17:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
