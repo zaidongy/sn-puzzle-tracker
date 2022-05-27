@@ -8,6 +8,7 @@
                 <element inactive_on_update="false" label="Easy" sequence="4" value="1"/>
             </choice>
         </element>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
